@@ -1,4 +1,5 @@
-[
+{
+"books": [
   {
 	"bookId" : 0,
 	"bookName" : "Name0",
@@ -12,3 +13,4 @@
 	"bookPrice" : 10.0
   }
 ]
+}
