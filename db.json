@@ -1,14 +1,14 @@
 [
   {
-	“bookId” : 0,
-	“bookName” : “Name0”,
-	“bookAuthor”: “QWERTY”,
-	“bookPrice” : 1.0
+	"bookId" : 0,
+	"bookName" : "Name0",
+	"bookAuthor": "QWERTY",
+	"bookPrice" : 1.0
   },
   {
-	“bookId” : 1,
-	“bookName” : “Name1”,
-	“bookAuthor”: “ASDFG”,
-	“bookPrice” : 10.0
+	"bookId” : 1,
+	"bookName" : "Name1",
+	"bookAuthor": "ASDFG",
+	"bookPrice" : 10.0
   }
 ]
